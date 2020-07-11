@@ -1,2 +1,2 @@
 # RedmineSuper
-open source management for RedmineSuper
+iOS and Android open-source Redmine Flutter client app
